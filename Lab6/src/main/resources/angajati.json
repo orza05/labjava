@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Ana",
+    "post": "programator",
+    "data_angajare": "2021-09-14",
+    "salariu": 2300
+  },
+  {
+    "nume": "David",
+    "post": "inginer",
+    "data_angajare": "2021-10-17",
+    "salariu": 2100
+  },
+  {
+    "nume": "Mirabela",
+    "post": "tester",
+    "data_angajare": "2021-08-11",
+    "salariu": 1800
+  },
+  {
+    "nume": "Andrei",
+    "post": "contabil",
+    "data_angajare": "2021-09-21",
+    "salariu": 1300
+  },
+  {
+    "nume": "Daniel",
+    "post": "programator",
+    "data_angajare": "2021-07-24",
+    "salariu": 2400
+  }
+]
